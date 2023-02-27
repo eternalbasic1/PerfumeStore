@@ -1,0 +1,19 @@
+{
+  "name": "projbackend",
+  "version": "1.0.0",
+  "description": "Developing Backend for Perfume Store Online",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eternalbasic1/PerfumeStore.git"
+  },
+  "author": "KVR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eternalbasic1/PerfumeStore/issues"
+  },
+  "homepage": "https://github.com/eternalbasic1/PerfumeStore#readme"
+}
